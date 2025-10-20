@@ -1,0 +1,9 @@
+# Environnements et fichiers à ignorer
+env_projet/
+.history/
+.vscode/
+mlartifacts/
+mlruns/
+docker.txt
+ReadMe.md
+aws/
